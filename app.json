@@ -4,7 +4,7 @@
     "slug": "MaBelle",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/MaBelle-logo.png",
     "scheme": "mabelle",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
