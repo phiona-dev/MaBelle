@@ -1,3 +1,4 @@
+import { OCR_API_KEY } from "@env";
 import { useCameraPermissions } from "expo-camera";
 import * as FileSystem from "expo-file-system";
 import * as ImagePicker from "expo-image-picker";
